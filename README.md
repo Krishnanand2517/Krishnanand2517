@@ -1,5 +1,5 @@
 <h1 style="color:#ff7b00" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
-<h3 style="color:#ff7b00" align="center">A passionate game developer from India</h3>
+<h3 style="color:#ff7b00" align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **Next.js, TensorFlow, SDL 2**
 
