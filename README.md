@@ -2,7 +2,7 @@
 <h1 style="color:#ffffff" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
 <h3 style="color:#ffffff" align="center">Driven by Innovation, Fueled by Tea 🫖</h3>
 
-- 🔭 I’m currently working on [Project IGNITE](https://github.com/Krishnanand2517/project-ignite)
+- 🔭 I’m currently working on [Task Manager App (React Native)](https://github.com/Krishnanand2517/todo-app-react-native)
 
 - 🌱 I’m currently learning **SDL 2, OpenGL, Generative AI**
 
