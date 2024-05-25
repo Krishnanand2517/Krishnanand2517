@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Money Diary (Next.js, Supabase, daisyUI)](https://github.com/Krishnanand2517/money-diary)
 
-- 🌱 I’m currently learning **SDL 2, OpenGL, Generative AI**
+- 🌱 I’m currently learning **SDL 2 and OpenGL**
 
 - 🎮 Some games that I have made are available at [https://krishnanand.itch.io/](https://krishnanand.itch.io/)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **krishnanand2517@gmail.com**
 
-- 😁 I've been programming for as long as I can remember (I have long-term memory loss)
+- 😁 Why do programmers prefer dark mode? Because light attracts bugs!
 
 <h3 style="color:#ffffff" align="left">Connect with me:</h3>
 <p align="left">
