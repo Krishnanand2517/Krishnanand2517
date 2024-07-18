@@ -1,6 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/chill%20scene.gif" height="320" /></div>
 <h1 style="color:#ffffff" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
-<h3 style="color:#ffffff" align="center">Driven by Innovation, Fueled by Tea 🫖</h3>
+<h3 style="color:#ffffff" align="center">Driven by Challenges, Fueled by Tea 🫖</h3>
 
 - 🔭 I’m currently working on [Money Diary (Next.js, Supabase, daisyUI)](https://github.com/Krishnanand2517/money-diary)
 
