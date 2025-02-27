@@ -2,7 +2,7 @@
 <h1 style="color:#ffffff" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
 <h3 style="color:#ffffff" align="center">Driven by Challenges, Fueled by Tea 🫖</h3>
 
-- 🔭 I’m currently working on [WeTalk (WebRTC, Socket.IO, React, Node.js)](https://github.com/Krishnanand2517/webrtc-video-chat)
+- 🔭 I’m currently working on [Multiplayer Tic-Tac-Toe (Socket.IO, React, Node.js)](https://github.com/Krishnanand2517/multiplayer-tictactoe)
 
 - 🌱 I’m currently learning **SDL 2 and OpenGL**
 
