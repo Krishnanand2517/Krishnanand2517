@@ -2,9 +2,9 @@
 <h1 style="color:#ffffff" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
 <h3 style="color:#ffffff" align="center">Driven by Challenges, Fueled by Tea 🫖</h3>
 
-- 🔭 I’m currently working on [Multiplayer Tic-Tac-Toe (Socket.IO, React, Node.js)](https://github.com/Krishnanand2517/multiplayer-tictactoe)
+- 🔭 I’m currently working on [Document Chat with RAG (Langchain, QdrantDB, ValKey, Express.js, Next.js)](https://github.com/Krishnanand2517/document-chat-rag)
 
-- 🌱 I’m currently learning **SDL 2 and OpenGL**
+- 🌱 I’m currently learning about **RAGs, WebRTC, and WebSockets**
 
 - 🎮 Some games that I have made are available at [https://krishnanand.itch.io/](https://krishnanand.itch.io/)
 
@@ -34,7 +34,7 @@
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Postman](https://img.shields.io/badge/postman-%23FA6F48.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
