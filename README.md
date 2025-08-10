@@ -2,7 +2,7 @@
 <h1 style="color:#ffffff" align="center">Hi 👋, I'm Krishnanand Yadav</h1>
 <h3 style="color:#ffffff" align="center">Driven by Challenges, Fueled by Tea 🫖</h3>
 
-- 🔭 I’m currently working on [Document Chat with RAG (Langchain, QdrantDB, ValKey, Express.js, Next.js)](https://github.com/Krishnanand2517/document-chat-rag)
+- 🔭 I’m currently working on [CollabBoard (React.js, Fabric.js, Y.js, Express.js, Socket.IO, Supabase Auth)](https://github.com/Krishnanand2517/collab-board)
 
 - 🌱 I’m currently learning about **RAGs, WebRTC, and WebSockets**
 
